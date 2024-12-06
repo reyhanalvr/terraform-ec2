@@ -1,9 +1,11 @@
-
+# Setup Instalasi & Penggunaan IaC Terraform untuk AWS EC2
 
 ## 1. Buka Service IAM 
 ![image](https://github.com/user-attachments/assets/4b0ba77f-c3d5-4ce1-b151-2e1e4875dbc1)
 
 ## 2. Buat user baru `User -> Create User`
+
+### Berikan access IAM User untuk membuat instance ( Berikan access yang dibutuhkan saja )
 
 ![image](https://github.com/user-attachments/assets/2c131f1e-bbef-401d-8b2d-bee6c707fc58)
 
@@ -48,3 +50,7 @@ Terraform Apply
 
 ![image](https://github.com/user-attachments/assets/a7b7113c-7f1d-4920-9933-ec895824961d)
 
+## Notes 
+```
+
+```
